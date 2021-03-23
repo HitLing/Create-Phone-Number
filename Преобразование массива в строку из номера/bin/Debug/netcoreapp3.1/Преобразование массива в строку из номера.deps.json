@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Преобразование массива в строку из номера/1.0.0": {
+        "runtime": {
+          "Преобразование массива в строку из номера.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Преобразование массива в строку из номера/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

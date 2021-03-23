@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Преобразование массива в строку из номера", "Преобразование массива в строку из номера\Преобразование массива в строку из номера.csproj", "{CA128B06-8849-4301-BE2B-7EF0C730AA27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA128B06-8849-4301-BE2B-7EF0C730AA27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA128B06-8849-4301-BE2B-7EF0C730AA27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA128B06-8849-4301-BE2B-7EF0C730AA27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA128B06-8849-4301-BE2B-7EF0C730AA27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD0BDCDC-258B-4B52-9DE2-FC07E6E72579}
+	EndGlobalSection
+EndGlobal
